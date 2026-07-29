@@ -23,4 +23,5 @@ Solo se evalúa la correspondencia con los requisitos, no el diseño gráfico. M
 2. Conecta los botones con el modo **Prototype**: Pantalla 1 → Pantalla 2 → confirmación, y acceso a Pantalla 3 desde un menú del coordinador.
 3. Genera el enlace público de solo lectura (Share → Anyone with the link → View).
 4. Toma una captura de cada pantalla y guárdala en `/prototipo/capturas/`.
-5. Pega el enlace público en `enlace_figma.md`.
+5. Pega el enlace público en `enlace_figma.md`. https://www.figma.com/design/yuc07mZFzabz06SMRlDzJe/Sin-t%C3%ADtulo?node-id=0-1&t=UmVkwq0bpfyTmHuG-1
+
