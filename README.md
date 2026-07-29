@@ -27,7 +27,7 @@ El sistema **no** gestiona pagos ni certificados de participación.
 
 - 📄 SRS completo: [`/docs/SRS_CulturaUAE.pdf`](./docs/SRS_CulturaUAE.pdf)
 - 🖼 Diagramas UML: [`/uml`](./uml)
-- 🎨 Prototipo Figma: _(pegar aquí el enlace público del prototipo)_
+- 🎨 Prototipo Figma: _(https://www.figma.com/design/yuc07mZFzabz06SMRlDzJe/Sin-t%C3%ADtulo?node-id=0-1&t=ko1XEqS2dL8bKsUt-1)_
 
 ## Tabla de trazabilidad
 
